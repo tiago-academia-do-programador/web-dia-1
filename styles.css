@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+
+}
+
+div {
+  background-color: red;
+  text-align: center;
+
+  padding: 50px;
+  margin: 50px;
+}
+
+.cor-branca {
+
+  color: white;
+  font-size: 22px;
+}
+
+.lista {
+  text-align: left;
+}
